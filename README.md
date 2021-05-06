@@ -27,3 +27,5 @@ Two things to make this a better webpage:
 
 1. Inclusion of more data from different years instead of just the 2010.
 2. If there was a picture associated with the sighting, this would be somehting nice to show the user.
+
+To view the wedsite click https://snkty8.github.io/UFOs_Challange/ 
